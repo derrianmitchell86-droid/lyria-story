@@ -1,0 +1,19 @@
+name: Publish to Github packages\
+
+on: [released]\
+
+types: published]\
+
+jobs: 
+
+publish-release: 
+
+runs-on: 
+
+ubuntu-latest
+
+steps:
+
+- uses: actions/checkout@v4
+
+- run: npm publish

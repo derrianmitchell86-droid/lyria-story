@@ -1,0 +1,9 @@
+{
+  "name": "Story Tale",
+  "description": "A rhyming storytelling app that uses your camera to guide an interactive adventure, accompanied by real-time generated music.",
+  "requestFramePermissions": [
+    "display-capture",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
